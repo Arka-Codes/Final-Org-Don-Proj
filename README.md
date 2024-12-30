@@ -5,6 +5,7 @@ This code essentially involves taking the factors affecting the organ donation s
 
 For sample, we have used random data and stored it in a database. The matching_algorithm file uses the data from that database to run the code.
 
+(Ignore license file)
 
 To run the program-:
 1. Save initialize_db and populate_db as python files in scripts folder in your local machine and run them. (Notice path of organ_matching.db in your system)
@@ -21,8 +22,6 @@ Ongoing Developments in code-:
 1. The factors are being better calculated with accuracy by referring to certified doctor standards and methods.
 2. The database are being converted into an online database (ABDM), and data can be obtained by using APIs.
 3. The backend code can be converted into blockchain technology, after enough experience and knowledge.
-
-(Ignore license file)
 
 
 Please note the following:

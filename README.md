@@ -28,3 +28,5 @@ Ongoing Developments in code-:
 
 Please note the following:
 Store all the files in a folder named "OrgDonProj" and open that specific folder in VSCode.
+
+The created database can be viewed in a table format by using an application for sqlite called DB Browser (SQLite).

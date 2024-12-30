@@ -12,11 +12,9 @@ To run the program-:
 3. Save main.py in the file directory as shown in the repo.
 4. Now in VSCode terminal open file directory using command - cd "file path" 
 5. Create a virtual environment in the folder using command - python -m venv venv
-6. Activate the virtual environment using -  .\venv\Scripts\Activate
+6. Activate the virtual environment using -  .\venv\Scripts\Activate (A virtual environment may already start running in the background. In that case, there is no need to create one.)
 7. Run pip install geopy to install used library in the code.
 8. Run the main file to see results. (try to maintain file directory as shown before running)
-
-All the codes have to be written in the terminal. (Run main.py using python main.py)
 
 
 Ongoing Developments in code-:
@@ -25,3 +23,7 @@ Ongoing Developments in code-:
 3. The backend code can be converted into blockchain technology, after enough experience and knowledge.
 
 (Ignore license file)
+
+
+Please note the following:
+Store all the files in a folder named "OrgDonProj" and open that specific folder in VSCode.

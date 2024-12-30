@@ -15,6 +15,7 @@ To run the program-:
 6. Activate the virtual environment using -  .\venv\Scripts\Activate
 7. Run pip install geopy to install used library in the code.
 8. Run the main file to see results. (try to maintain file directory as shown before running)
+
 All the codes have to be written in the terminal. (Run main.py using python main.py)
 
 

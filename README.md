@@ -15,7 +15,9 @@ To run the program-:
 5. Create a virtual environment in the folder using command - python -m venv venv
 6. Activate the virtual environment using -  .\venv\Scripts\Activate (A virtual environment may already start running in the background. In that case, there is no need to create one.)
 7. Run pip install geopy to install used library in the code.
-8. Run the main file to see results. (try to maintain file directory as shown before running)
+8. Run the main file to see results. (Before running the main file, delete all organ_matching.db which was once created due to the initialization. Those files are already used in main.py)
+
+(try to maintain file directory as shown before running)
 
 
 Ongoing Developments in code-:
